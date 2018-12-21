@@ -17,6 +17,7 @@ Now you are done.
 <br>
 
 Finally, run ` php artisan serve ` and open the project on the browser. 
+E.g http://localhost:8000/
 
 
 
